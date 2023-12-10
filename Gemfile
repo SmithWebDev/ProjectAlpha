@@ -55,3 +55,4 @@ group :development do
 end
 
 gem "rspec-rails", "~> 6.1", groups: %i[development test]
+gem "capybara", "~> 3.39", group: :test
