@@ -56,3 +56,5 @@ end
 
 gem "rspec-rails", "~> 6.1", groups: %i[development test]
 gem "capybara", "~> 3.39", group: :test
+
+gem "hirb", "~> 0.7.3", groups: %i[development test]

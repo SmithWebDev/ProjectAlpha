@@ -107,6 +107,7 @@ GEM
     erubi (1.12.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
+    hirb (0.7.3)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     io-console (0.6.0)
@@ -252,6 +253,7 @@ DEPENDENCIES
   capybara (~> 3.39)
   cssbundling-rails
   debug
+  hirb (~> 0.7.3)
   jsbundling-rails
   pg (~> 1.1)
   propshaft
