@@ -33,7 +33,7 @@ group :development, :test do
   gem 'debug', platforms: %i[mri mingw x64_mingw]
   gem 'ffaker', '~> 2.23'
   gem 'rspec-rails', '~> 6.0', '>= 6.0.3'
-  gem 'ruby-lsp'
+  # gem 'ruby-lsp'
   gem 'ruby-lsp-rails'
   gem 'ruby-lsp-rspec'
 end

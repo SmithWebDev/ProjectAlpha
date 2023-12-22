@@ -322,7 +322,6 @@ DEPENDENCIES
   rails
   redis (~> 4.0)
   rspec-rails (~> 6.0, >= 6.0.3)
-  ruby-lsp
   ruby-lsp-rails
   ruby-lsp-rspec
   stimulus-rails
