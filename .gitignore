@@ -39,8 +39,5 @@
 
 /node_modules
 vendor/bundle/ruby/3.2.0
-<<<<<<< Updated upstream
-=======
 .idea
 vendor/bundle/ruby/3.3.0
->>>>>>> Stashed changes
