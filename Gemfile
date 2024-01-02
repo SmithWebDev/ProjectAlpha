@@ -49,4 +49,4 @@ group :development do
   # gem "spring"
 end
 
-gem "capybara", "~> 3.39", group: :test
+gem 'minitest-json-reporter', '~> 0.1.6', group: :test

@@ -158,7 +158,8 @@ GEM
     marcel (1.0.2)
     matrix (0.4.2)
     mini_mime (1.1.5)
-    minitest (5.21.1)
+    minitest (5.20.0)
+    minitest-json-reporter (0.1.6)
     msgpack (1.7.2)
     mutex_m (0.2.0)
     net-imap (0.4.9.1)
@@ -326,6 +327,7 @@ DEPENDENCIES
   hirb (~> 0.7.3)
   hotwire-livereload (~> 1.2)
   jsbundling-rails
+  minitest-json-reporter (~> 0.1.6)
   pg (~> 1.1)
   propshaft
   puma (>= 5.0)
